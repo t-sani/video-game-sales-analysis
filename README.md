@@ -31,6 +31,16 @@ The dataset contains detailed sales figures for video games, categorized by:
 ## Deliverables
 1. **Jupyter Notebook**: A well-documented notebook containing the full analysis.
 2. **PowerPoint Presentation**: An executive report summarizing the key findings and actionable insights for stakeholders.
+   
+## Results and Insights
+- Regional sales trends show a significant rise in European sales and a decline in North America.
+- Key genres and platforms vary greatly by region, impacting marketing and distribution strategies.
+- Data-driven insights can help guide future business decisions and optimize cross-dimensional marketing efforts.
 
-## How to Run the Project
-1. Clone the repository:
+## Future Work
+- Further analysis on the impact of mobile gaming on regional sales.
+- Investigate the effects of game pricing and promotions on sales trends.
+
+## Acknowledgments
+- The dataset used for this analysis was sourced from [Kaggle](https://www.kaggle.com/), and special thanks to the contributors for making this dataset available.
+
